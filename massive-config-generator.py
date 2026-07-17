@@ -48,3 +48,5 @@
 # نمایش کانفیگ نهایی
 ‏print("\nکانفیگ نهایی:")
 ‏print(selected_config)
+
+print("sallam")
